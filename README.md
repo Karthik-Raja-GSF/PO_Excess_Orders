@@ -2,7 +2,7 @@
 
 ## Objective
 
-The goal of this analysis is to identify items that exist in both the `NC` and `CIC` Site Codes and determine whether a scheduled "Next PO" for the `NC` site is truly necessary, partially necessary, or unnecessary. We determine this by checking if the `CIC` site has enough surplus inventory to transfer over and cover `NC`'s shortfall.
+The goal of this analysis is to identify items that exist in both the `NC` and `CIC` Site Codes and determine whether a scheduled "Next PO" for the `NC` site is truly necessary, partially necessary, or unnecessary. We determine this by checking if the `CIC` site has enough surplus inventory to transfer over and cover `NC`'s shortfall..
 
 ## Data Source
 
